@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/example/.idea/xiaomi.iml" filepath="$PROJECT_DIR$/example/.idea/xiaomi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-test/boot-test/boot-test.iml" filepath="$PROJECT_DIR$/boot-test/boot-test/boot-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class-example/.idea/xiaomi.iml" filepath="$PROJECT_DIR$/class-example/.idea/xiaomi.iml" />
     </modules>
   </component>
 </project>

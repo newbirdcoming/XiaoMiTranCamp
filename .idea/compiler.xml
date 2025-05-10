@@ -7,33 +7,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="product" />
-        <module name="demo" />
-      </profile>
-      <profile name="Annotation profile for boot-test" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="false">
-          <entry name="$PROJECT_DIR$/../../respository/mvn-respository/apache-maven-3.9.9/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar" />
-          <entry name="$PROJECT_DIR$/../../respository/mvn-respository/apache-maven-3.9.9/repository/org/mapstruct/mapstruct-processor/1.6.0/mapstruct-processor-1.6.0.jar" />
-          <entry name="$PROJECT_DIR$/../../respository/mvn-respository/apache-maven-3.9.9/repository/org/mapstruct/mapstruct/1.6.0/mapstruct-1.6.0.jar" />
-        </processorPath>
-        <module name="boot-test" />
+        <module name="day2-classwork" />
+        <module name="learning" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="boot-test" target="1.8" />
       <module name="classWork2" target="1.8" />
+      <module name="day" target="1.8" />
+      <module name="Demo" target="1.8" />
       <module name="demo1" target="1.8" />
-      <module name="demo2" target="17" />
+      <module name="demo2" target="1.5" />
       <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Demo" options="-parameters" />
       <module name="boot-test" options="-parameters" />
-      <module name="demo" options="" />
-      <module name="demo2" options="-parameters" />
+      <module name="demo1" options="" />
+      <module name="demo2" options="" />
+      <module name="learning" options="" />
     </option>
   </component>
 </project>
