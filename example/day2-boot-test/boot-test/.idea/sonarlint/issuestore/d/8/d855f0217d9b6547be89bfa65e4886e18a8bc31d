@@ -1,0 +1,10 @@
+
+e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(²Ý“‚8ßÞ»¸­2
+e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(²Ý“‚8ßÞ»¸­2
+X	java:S125""<This block of commented-out lines of code should be removed.(šëÆ®8áÞ»¸­2
+j	java:S119%"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ß…—ùýÿÿÿÿ8âÞ»¸­2
+j	java:S119%"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ß…—ùýÿÿÿÿ8âÞ»¸­2
+G	java:S106A"+Replace this use of System.out by a logger.(¹‚‘…8åÞ»¸­2
+X	java:S125@"<This block of commented-out lines of code should be removed.(ÇÓÝ˜8åÞ»¸­2
+\
+java:S1612A"?Replace this lambda with method reference 'Outlet::getGroupId'.(¹‚‘…8åÞ»¸­2

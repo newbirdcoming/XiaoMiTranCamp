@@ -1,0 +1,11 @@
+
+«
+java:S4449"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(Õ§˜úÿÿÿÿ8ƒŠ¯È£2
+«
+java:S4449)"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(å¼¦âıÿÿÿÿ8’·­È£2
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¸Úñš8µšÈ£2
+]	java:S125 "<This block of commented-out lines of code should be removed.(öÉÖ™ùÿÿÿÿ8»šÈ£2
+X	java:S125%"<This block of commented-out lines of code should be removed.(‹³ƒí8¼šÈ£2
+L	java:S1061"+Replace this use of System.out by a logger.(«œèùÿÿÿÿ8ÁšÈ£2
+X	java:S1256"<This block of commented-out lines of code should be removed.(„™àú8ÂšÈ£2

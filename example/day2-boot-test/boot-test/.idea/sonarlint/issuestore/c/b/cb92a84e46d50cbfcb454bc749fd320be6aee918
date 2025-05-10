@@ -1,0 +1,5 @@
+
+g	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ο®ςΫΈ2
+†
+java:S14884"dImmediately return this expression instead of assigning it to the temporary variable "responseBody".(ΔÒ¥Òϊÿÿÿÿ8π®ςΫΈ2
+F	java:S106F"+Replace this use of System.out by a logger.(ƒΪαB8‘―ςΫΈ2

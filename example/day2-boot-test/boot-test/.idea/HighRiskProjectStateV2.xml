@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HighRiskProjectStateV2">
+    <option name="callDepth" value="5" />
+    <option name="cookie" value="_aegis_cas=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDQxNjQ1NjgsImRlcGlkIjoiK1x1MDAxYkxoMlx1MDAwMXpgb11cXFx1MDAxYlwiXHUwMDExVlx1MDAwYlx1MDAwM1xyaVdcL1x1MDAwNkZcdTAwMTFWXG5cdTAwMDVcdTAwMDciLCJhdWQiOiJoaWdoLXJpc2stZWxlbWVudC1tZC5taW9mZmljZS5jbiIsImMiOjAsImRldGFpbCI6Ilx1MDAxMk9v7lKz723BQmT2gm5cdTAwMWGYXHUwMDA2w4P4OLTYatTVR2mKXC9fx-p7XHUwMDFiXo_p0HJ4V5SPtj1cdTAwMGK03lNb9OC1oUNommb8J06Lj4TJkaBcdTAwMTW-qmZglrHGz5QhXHUwMDBi0lx1MDAwYnOkj7HrMk9cdTAwMTOqgyRcdTAwMDbz3z_aXHUwMDFjOnJcdTAwMTfx26TFXHUwMDFll71sj516ai7g9E0wrafrNbkqXHUwMDFjm1TU6G9oXHKwXHUwMDdmKNhXfKavwmerZ5elMmG1obOwXGZ2kERvXHR6rKWYWEvdRT-_XGLoofSrXHUwMDExNGBcdTAwMTNcdTAwMWRfYnlaxiCZWreDw4NcdTAwMDC9JuJzXHUwMDEyyp1cdTAwMDBtodqkJ1x1MDAxNVx1MDAxNzeZh-pJ62eJg-lcdTAwMDYwhkhRXHUwMDFhd0FJb8RcckOV-Vx1MDAxMq_h1Vx1MDA3ZixcdTAwMTNH-UT1z35EpGC-y7Da31x1MDAwMVx1MDAwYijxXHUwMDAzva7uVNL7Xs7OlCSzXHUwMDA0XHUwMDE2w704WkZcdTAwMTjqP3Y2-lx1MDAxOVx1MDAwMt78apBXzr1cdKfrX6zNVOmy5b2XqjE-TEdFXHUwMDE38szhqTotXHL_yiQ9xsswIFx1MDAxN8y5XCJHtG1cdTAwMTbApjGqgIx8nFwigVwiPnNcL8zbPImoXHUwMDAyoFx1MDAxZDG65arWVtHCNCNcIudcdTAwMGbKXHUwMDFm6zWLuVx1MDAwN9bKd4-Mwyg1XHUwMDFm4yBcdTAwMDH0gFjZ91xyyDH7i1x1MDAxObJAJerSUdVcdTAwMTeBTi2aQbj9XHUwMDAzQPbQYlx1MDAwN0nOJffTdys1x_xJNfyE0nPtUjRd_oyo52nRkZhSxOiZVH3aXHQ6XCJC6EsoXHUwMDEw-svfrk9X7Vxm-m9cdTAwMTA8clx0r3qjdVx1MDAxODaTZLpebeQoZkMkN5dU0JZ4bS7mp1x1MDAxNz_jlkBcdTAwMTdcdTAwMWOhXHUwMDE4mpFcdTAwMGJcdTAwMTdEwlD-noFcdTAwMDSp6Fx1MDAxYilcdTAwMWb_sjqubUAr88_xLFUs8q-A1Lvev6BAYtdZ_Jgs89mEyDlNiuF-PeKshJ9zb1x1MDAxZMmuq1x1MDAxZqm34kpqta4tP0rQje1ThaBMcYXhR1x1MDAwMOAuLZr3wmNcdTAwN2ZPXGK7XHUwMDFjToxhY0y7XGKz2HxcdTAwMTiMXHUwMDAyclx1MDAxMawlXHUwMDExNs_mts9guFx1MDAxOXnHXHUwMDAyUDSGXHUwMDEySa2lg2pQrMPSYDjrXfRirFx1MDAxNtkthkYss1x1MDAwNNdKXHUwMDAxXHUwMDBmTlx1MDAwYtDD-N-qwadnj1x1MDAxM3mALCMiLCJzdWIiOiJ3YW5ncnVpNjciLCJ0IjoiZmFsc2UiLCJ1dCI6Ilx1MDAwMz9cdTAwMDZNXHRCVlEiLCJleHAiOjE3NDQyNTQ1NjgsImQiOiI2NmU3ZWIzOGFkMjc1NmQ4MDJlNjBmZThhNzdlNjNiYSIsImlzcyI6Ik1JLUlORk9TRUMiLCJsIjoiJVx1MDAxYThcdTAwMTFWXHUwMDBmIiwidHlwIjoiY2FzIn0.E4VQuOvichZiUTcWri_1Wdn0sjNZLBbQjQ4qXv2XTZh6tRnBT2QWN6LqIfdeYEUmqLz2uTKkmjld2TpETwmquQ" />
+    <option name="highRiskMethodMap">
+      <map>
+        <entry key=" App.transformColumnList.useMemoizedFn.$(arg0)">
+          <value>
+            <HighRiskClientMethodEleDetailVO>
+              <option name="className" value="" />
+              <option name="eleDetails">
+                <list />
+              </option>
+              <option name="filePath" value="src/views/core/api-management/index.tsx" />
+              <option name="highRiskMethodId" value="21493" />
+              <option name="highRiskMethodType" value="METHOD" />
+              <option name="isHighRisk" value="1" />
+              <option name="methodName" value="App.transformColumnList.useMemoizedFn.$(arg0)" />
+            </HighRiskClientMethodEleDetailVO>
+          </value>
+        </entry>
+        <entry key="NrPayApiImpl public payNotify(String)">
+          <value>
+            <HighRiskClientMethodEleDetailVO>
+              <option name="className" value="NrPayApiImpl" />
+              <option name="eleDetails">
+                <list />
+              </option>
+              <option name="filePath" value="pay-app/src/main/java/com/xiaomi/nr/pay/app/impl/NrPayApiImpl.java" />
+              <option name="highRiskMethodId" value="18257" />
+              <option name="highRiskMethodType" value="METHOD" />
+              <option name="isHighRisk" value="1" />
+              <option name="methodName" value="public payNotify(String)" />
+            </HighRiskClientMethodEleDetailVO>
+          </value>
+        </entry>
+        <entry key="NrPayNotifyServiceImpl private dealLoanFlow(NrPayLoanNotifyReqVo,NrPayLoanNotifyRespVo)">
+          <value>
+            <HighRiskClientMethodEleDetailVO>
+              <option name="className" value="NrPayNotifyServiceImpl" />
+              <option name="eleDetails">
+                <list />
+              </option>
+              <option name="filePath" value="pay-domain/src/main/java/com/xiaomi/nr/pay/domain/service/impl/NrPayNotifyServiceImpl.java" />
+              <option name="highRiskMethodId" value="18259" />
+              <option name="highRiskMethodType" value="METHOD" />
+              <option name="isHighRisk" value="1" />
+              <option name="methodName" value="private dealLoanFlow(NrPayLoanNotifyReqVo,NrPayLoanNotifyRespVo)" />
+            </HighRiskClientMethodEleDetailVO>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
