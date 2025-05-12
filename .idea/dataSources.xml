@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:mysql://localhost:3306/product</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="empolyeemanager@localhost" uuid="b36c140f-702f-48cb-a52e-fe1c603d0642">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/empolyeemanager</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>

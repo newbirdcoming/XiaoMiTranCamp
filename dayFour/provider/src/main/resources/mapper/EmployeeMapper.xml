@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.daythree.mapper.EmployeeMapper">
+
+    <resultMap id="BaseResultMap" type="com.example.daythree.domain.Employee">
+            <id property="id" column="id" jdbcType="INTEGER"/>
+            <result property="name" column="name" jdbcType="VARCHAR"/>
+            <result property="gender" column="gender" jdbcType="TINYINT"/>
+            <result property="phone" column="phone" jdbcType="VARCHAR"/>
+            <result property="email" column="email" jdbcType="VARCHAR"/>
+            <result property="birthDate" column="birth_date" jdbcType="DATE"/>
+            <result property="hireDate" column="hire_date" jdbcType="DATE"/>
+            <result property="managerId" column="manager_id" jdbcType="INTEGER"/>
+            <result property="position" column="position" jdbcType="TINYINT"/>
+            <result property="status" column="status" jdbcType="TINYINT"/>
+            <result property="gmtCreated" column="gmt_created" jdbcType="TIMESTAMP"/>
+            <result property="gmtModify" column="gmt_modify" jdbcType="TIMESTAMP"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,name,gender,
+        phone,email,birth_date,
+        hire_date,manager_id,position,
+        status,gmt_created,gmt_modify
+    </sql>
+</mapper>

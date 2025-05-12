@@ -10,7 +10,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 * @Entity com.example.product.domain.Student
 */
 public interface StudentMapper extends BaseMapper<Student> {
-
+        void get(Student student);
 }
 
 

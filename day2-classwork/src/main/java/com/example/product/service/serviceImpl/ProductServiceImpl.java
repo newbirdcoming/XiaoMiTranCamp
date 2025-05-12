@@ -17,7 +17,6 @@ public class ProductServiceImpl extends ServiceImpl<ProductMapper, Product> impl
     private ProductMapper productMapper;
     @Override
     public String add(Product product) {
-        productMapper.calculate(product);
         int insert = productMapper.insert(product);
         if (insert>0){
             return "插入成功";

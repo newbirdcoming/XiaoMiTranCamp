@@ -1,0 +1,24 @@
+GET http://localhost:8000/product/get?id=1
+
+<> 2025-05-11T164700.404.json
+
+###
+
+GET http://localhost:8000/product/get?id=1
+
+<> 2025-05-11T164657.404.json
+
+###
+
+GET http://localhost:8000/product/get?id=1
+
+<> 2025-05-11T164650.404.json
+
+###
+
+GET http://localhost:8000/product/get?id=1
+
+<> 2025-05-11T164308.404.json
+
+###
+
