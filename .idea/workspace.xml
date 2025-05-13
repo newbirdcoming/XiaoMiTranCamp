@@ -4,33 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="251aceb0-c602-4cb3-aa9b-292a5eafdc78" name="更改" comment="更改">
-      <change afterPath="$PROJECT_DIR$/day3-classWork/src/main/java/com/example/day3classwork/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-classWork/src/main/java/com/example/day3classwork/domain/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dayThree/src/main/java/com/example/daythree/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dayThree/src/main/java/com/example/daythree/controller/EmployeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dayThree/src/main/java/com/example/daythree/domain/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dayThree/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dayThree/src/test/java/com/example/daythree/test/Test.java" afterDir="false" />
+    <list default="true" id="251aceb0-c602-4cb3-aa9b-292a5eafdc78" name="更改" comment="day4">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dayFive-two/src/main/java/com/example/daythree/rocketmqprovider/SpringProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dayFive-two/src/test/java/com/example/daythree/rocketmqConsumer/RocketMQConsumerTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dayFive-two/src/test/java/com/example/daythree/rocketmqprovider/RocketMQProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dayFive-two/src/test/java/com/example/daythree/rocketmqprovider/RocketMQProviderTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dayFive/src/main/java/com/example/daythree/consumer/TestDuRui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dayFive/src/main/java/com/example/daythree/consumer/TestLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dayFive/src/main/java/com/example/daythree/product/TestDuRui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dayFive/src/main/java/com/example/daythree/product/TestLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dayFive/src/main/java/com/example/daythree/product/TestrTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dayFive/src/main/java/com/example/daythree/rocketmqprovider/SpringConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dayThree/sql/sql_create.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ee3d1e39-0915-44ba-9db6-3469a2c79840.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ee3d1e39-0915-44ba-9db6-3469a2c79840.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2-classwork/src/main/java/com/example/product/mapper/ProductMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/day2-classwork/src/main/java/com/example/product/mapper/ProductMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2-classwork/src/main/java/com/example/product/service/serviceImpl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day2-classwork/src/main/java/com/example/product/service/serviceImpl/ProductServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2-classwork/target/classes/com/example/product/mapper/ProductMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/day2-classwork/target/classes/com/example/product/mapper/ProductMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2-classwork/target/classes/com/example/product/service/serviceImpl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/day2-classwork/target/classes/com/example/product/service/serviceImpl/ProductServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/product/domain/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/product/domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/product/domain/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/product/mapper/ProductMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/product/mapper/StudentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/product/mapper/StudentMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/mapper/ProductMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dayThree/sql/sql_create.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/mapper/StudentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/mapper/StudentMapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +38,7 @@
       <list>
         <option value="FxmlFile" />
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -62,6 +53,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\code\respository\mvn-respository\apache-maven-3.9.9\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../respository/mvn-respository/apache-maven-3.9.9" />
         <option name="useMavenConfig" value="true" />
         <option name="userSettingsFile" value="D:\code\respository\mvn-respository\apache-maven-3.9.9\conf\settings.xml" />
       </MavenGeneralSettings>
@@ -87,43 +79,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelOrder2&quot;: &quot;2&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth2&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/java/xiaomi/dayThree/src/main/resources&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/code/java/xiaomi/test/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;4c0776df75fdf2d597e607eb32b64059&quot;,
-    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelOrder2": "2",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RequestMappingsPanelWidth2": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/code/java/xiaomi/dayThree/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/code/java/xiaomi/test/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "2344876d79ab8174c36916ab84d759ec",
+    "应用程序.Main.executor": "Run"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -142,12 +134,15 @@
       <recent name="D:\code\java\xiaomi\product\src\main\resource\sql" />
       <recent name="D:\code\java\xiaomi\classWork2\src\main" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.daythree.rocketmq" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.daythree.rocketmq" />
+      <recent name="com.example.daythree.consumer" />
+      <recent name="com.example.daythree.product" />
       <recent name="com.example.daythree.domain" />
       <recent name="com.example.day3classwork.domain" />
-      <recent name="com.example.daythree.controller" />
-      <recent name="com.example.day3classwork.controller" />
-      <recent name="com.example.demo.one.test9" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -157,52 +152,87 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DayThreeApplication (1)">
-    <configuration name="generated-requests | #4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="4" requestIdentifier="#4" runType="运行单个请求">
-      <method v="2" />
+  <component name="RunManager" selected="JUnit.RocketMQConsumerTest1.testMessageConsumption">
+    <configuration name="RocketMQConsumerTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dayThree (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.daythree.rocketmqConsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.daythree.rocketmqConsumer" />
+      <option name="MAIN_CLASS_NAME" value="com.example.daythree.rocketmqConsumer.RocketMQConsumerTest1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RocketMQConsumerTest1.testMessageConsumption" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dayThree (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.daythree.rocketmqConsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.daythree.rocketmqConsumer" />
+      <option name="MAIN_CLASS_NAME" value="com.example.daythree.rocketmqConsumer.RocketMQConsumerTest1" />
+      <option name="METHOD_NAME" value="testMessageConsumption" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RocketMQContainerTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dayThree (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.daythree.rocketmqConsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.daythree.rocketmqConsumer" />
+      <option name="MAIN_CLASS_NAME" value="com.example.daythree.rocketmqConsumer.RocketMQContainerTest1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RocketMQProviderTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dayThree (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.daythree.rocketmqprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.daythree.rocketmq" />
+      <option name="MAIN_CLASS_NAME" value="com.example.daythree.rocketmqprovider.RocketMQProviderTest1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RocketMQProviderTest1.testSendMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dayThree (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.daythree.rocketmqprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.daythree.rocketmq" />
+      <option name="MAIN_CLASS_NAME" value="com.example.daythree.rocketmqprovider.RocketMQProviderTest1" />
+      <option name="METHOD_NAME" value="testSendMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="boot-test" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.App" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day3ClassWorkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="day3-classWork" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.day3classwork.Day3ClassWorkApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.day3classwork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DayThreeApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="dayThree (1)" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.daythree.DayThreeApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.daythree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DayThreeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="dayThree" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.daythree.DayThreeApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.daythree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -235,26 +265,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="day2-classwork" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.product.ProductApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.product.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.DayThreeApplication (1)" />
-        <item itemvalue="Spring Boot.ProductApplication" />
-        <item itemvalue="Spring Boot.DayThreeApplication" />
-        <item itemvalue="Spring Boot.Day3ClassWorkApplication" />
-        <item itemvalue="HTTP 请求.generated-requests | #4" />
+        <item itemvalue="JUnit.RocketMQConsumerTest1.testMessageConsumption" />
+        <item itemvalue="JUnit.RocketMQConsumerTest1" />
+        <item itemvalue="JUnit.RocketMQContainerTest1" />
+        <item itemvalue="JUnit.RocketMQProviderTest1.testSendMessage" />
+        <item itemvalue="JUnit.RocketMQProviderTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -289,6 +306,8 @@
       <workItem from="1747013744768" duration="2288000" />
       <workItem from="1747016382343" duration="3240000" />
       <workItem from="1747066742279" duration="51000" />
+      <workItem from="1747066820124" duration="82000" />
+      <workItem from="1747099884284" duration="9558000" />
     </task>
     <task id="LOCAL-00001" summary="更改">
       <created>1746901895611</created>
@@ -297,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1746901895612</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day4">
+      <created>1747066892428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747066892429</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +342,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更改" />
-    <option name="LAST_COMMIT_MESSAGE" value="更改" />
+    <MESSAGE value="day4" />
+    <option name="LAST_COMMIT_MESSAGE" value="day4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
